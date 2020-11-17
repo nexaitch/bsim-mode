@@ -5,7 +5,7 @@ bsim-mode is a major mode for editing BSim code, used in SUTD's 50.002 Computati
 ## How to use
 
 1. Put `bsim.el` into your init folder.
-1. Add the following into your init file, replacing `path/to/bsim.el` with the location of `bsim.el:
+1. Add the following into your init file, replacing `path/to/bsim.el` with the location of `bsim.el`:
 
 ```elisp
 (load "path/to/bsim.el" nil t)
